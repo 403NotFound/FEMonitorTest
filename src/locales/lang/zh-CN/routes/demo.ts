@@ -153,6 +153,10 @@ export default {
     page: '测试页',
   },
 
+  list: {
+    page: '列表测试页',
+  },
+
   heatmap: {
     page: '热力图测试页',
   },
